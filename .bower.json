@@ -1,0 +1,13 @@
+{
+  "name": "pixabay",
+  "_cacheHeaders": {
+    "ETag": "\"54841afa-125a5\"",
+    "Last-Modified": "Sun, 07 Dec 2014 09:16:42 GMT",
+    "Content-Length": "75173",
+    "Content-Type": "application/zip"
+  },
+  "_release": "e-tag:54841afa-",
+  "_source": "http://pixabay.com/static/goodies/tinymce/tinymce_skin.zip",
+  "_target": "*",
+  "_originalSource": "http://pixabay.com/static/goodies/tinymce/tinymce_skin.zip"
+}
